@@ -53,9 +53,9 @@ This GitHub serves as my **freelance portfolio and learning lab**, including:
 - **Productivity:** Google Workspace, Microsoft 365, Notion  
 - **Email & Outreach:** Lemlist, Instantly, Gmail  
 
----
 
 ## 📂 Featured Projects (Past Work)
+<img width="1056" height="380" alt="Dropbox Naming standard" src="https://github.com/user-attachments/assets/4076c085-7255-4478-9173-08c3e5140f37" />
 
 ### 🔹 Lead Generation System
 - Built targeted B2B lead lists using Apollo & LinkedIn  
@@ -69,9 +69,6 @@ This GitHub serves as my **freelance portfolio and learning lab**, including:
 - Organized inboxes, calendars, and task systems  
 - Created SOPs to streamline recurring admin tasks  
 
-> ⚠️ Some client work is private due to confidentiality.
-
----
 
 ## 🧪 Current & Upcoming Projects
 
@@ -95,20 +92,7 @@ I’m always open to:
 - Knowledge sharing  
 - System-building projects  
 
-📧 **Email:** your-email@example.com  
+📧 **Email:** apesin03@gmail.com  
 💼 **LinkedIn:** https://linkedin.com/in/yourprofile  
-🌐 **Portfolio:** coming soon  
 
----
-
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-
----
-
-✨ *Thanks for stopping by! Feel free to explore, star projects, or reach out.*
-```
-
----
 
