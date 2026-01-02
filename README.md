@@ -23,9 +23,7 @@ I believe great systems create great results.
 
 ---
 
-## 🔍 What You’ll Find on My GitHub
-
-This GitHub serves as my **freelance portfolio and learning lab**, including:
+## This GitHub serves as my **freelance portfolio and learning lab**, including:
 - Lead generation workflows  
 - CRM setup & automation examples  
 - VA system templates  
@@ -82,7 +80,14 @@ This GitHub serves as my **freelance portfolio and learning lab**, including:
 
 These projects will be open-source or shared as templates where possible.
 
----
+## 🚀 Hire Me
+
+Interested in collaborating or need support with lead generation, virtual assistance, or CRM automation?
+
+I help teams and founders build organized systems, generate qualified leads, and streamline workflows that save time and drive results.
+
+👉 Open an issue, start a discussion, or reach out via direct message to discuss your project, ideas, or potential collaboration.
+I’m always open to meaningful work and value clear communication and well-defined goals.
 
 ## 🤝 Let’s Connect
 
@@ -93,6 +98,6 @@ I’m always open to:
 - System-building projects  
 
 📧 **Email:** apesin03@gmail.com  
-💼 **LinkedIn:** https://linkedin.com/in/yourprofile  
+💼 **LinkedIn:** https://www.linkedin.com/in/olajumoke-apesinola
 
 
